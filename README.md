@@ -16,7 +16,6 @@ The Tableau dashboard allows for interactive data exploration, with a focus on u
 4. Provide actionable **recommendations** to optimize the claims process and reduce costs based on findings.
 
 ---
----
 
 ## Dataset Description
 
@@ -47,3 +46,40 @@ The dataset consists of the following columns:
 | **URBANICITY** | Whether the car is primarily driven in urban or rural areas.               |
 
 
+## Dashboard Overview:
+
+<p align="center"><b> Cover Page </b></p>
+
+![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/1_Dashboard_Cover_Page.png)
+
+<p align="center"><b> Customer Demographics 1 </b></p>
+
+![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/2_Customer_Demographic_1.png)
+
+<p align="center"><b> Customer Demographics 2 </b></p>
+
+![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/3_Customer_Demographic_2.png)
+
+<p align="center"><b> Car Insurance Old Claim </b></p>
+
+![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/4_Car_Insurance_Old_claim.png)
+
+<p align="center"><b> Car Insurance Claim Frequency </b></p>
+
+![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/5_Car_Insurance_Claim_Freq.png)
+
+<p align="center"><b> Car Insurance Current Claim </b></p>
+
+![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/6_Car_Insurance_current_clm.png)
+
+<p align="center"><b> Claim Pattern By Income Range and Home Value </b></p>
+
+![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/7_Clm_pattern_by_income_range_home_value.png)
+
+<p align="center"><b> Insurance Claim By Car Age </b></p>
+
+![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/8_Insurance_clm_by_car_age.png)
+
+<p align="center"><b> Inferences </b></p>
+
+![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/Inferences.png)

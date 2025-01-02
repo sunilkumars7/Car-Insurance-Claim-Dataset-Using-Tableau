@@ -48,38 +48,39 @@ The dataset consists of the following columns:
 
 ## Dashboard Overview:
 
-<p align="center"><b> Cover Page </b></p>
+<p align="center"><b> Cover Page </b></p><br>
 
 ![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/1_Dashboard_Cover_Page.png)
-
-<p align="center"><b> Customer Demographics 1 </b></p>
+<br><br>
+<p align="center"><b> Customer Demographics 1 </b></p><br><br>
 
 ![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/2_Customer_Demographic_1.png)
-
-<p align="center"><b> Customer Demographics 2 </b></p>
+<br><br>
+<p align="center"><b> Customer Demographics 2 </b></p><br>
 
 ![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/3_Customer_Demographic_2.png)
-
-<p align="center"><b> Car Insurance Old Claim </b></p>
+<br><br>
+<p align="center"><b> Car Insurance Old Claim </b></p><br>
 
 ![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/4_Car_Insurance_Old_claim.png)
+<br><br>
+<p align="center"><b> Car Insurance Claim Frequency </b></p><br>
 
-<p align="center"><b> Car Insurance Claim Frequency </b></p>
-
-![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/5_Car_Insurance_Claim_Freq.png)
-
-<p align="center"><b> Car Insurance Current Claim </b></p>
+![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/5_Car_Inusrance_Claim_Freq.png)
+<br><br>
+<p align="center"><b> Car Insurance Current Claim </b></p><br>
 
 ![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/6_Car_Insurance_current_clm.png)
-
-<p align="center"><b> Claim Pattern By Income Range and Home Value </b></p>
+<br><br>
+<p align="center"><b> Claim Pattern By Income Range and Home Value </b></p><br>
 
 ![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/7_Clm_pattern_by_income_range_home_value.png)
-
-<p align="center"><b> Insurance Claim By Car Age </b></p>
+<br><br>
+<p align="center"><b> Insurance Claim By Car Age </b></p><br>
 
 ![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/8_Insurance_clm_by_car_age.png)
-
-<p align="center"><b> Inferences </b></p>
+<br><br>
+<p align="center"><b> Inferences </b></p><br>
 
 ![Dashboard Cover Page](Tableau%20Project/Dashboard%20Photos/Inferences.png)
+<br><br>
